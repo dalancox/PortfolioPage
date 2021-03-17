@@ -22,6 +22,8 @@ body {
     align-items: center;
     background-color: #18181a;
     color: white;
+    position: sticky;
+    top: 0;
 }
 
 .portfolio-name {
@@ -110,7 +112,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(Front-Picture-Portfolio.jpg);
+    background-image: url(galaxy-wallpapers-22-1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
